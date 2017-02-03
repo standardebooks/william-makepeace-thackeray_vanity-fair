@@ -42,6 +42,7 @@
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/599</dc:source>
+		<dc:sourec>https://books.google.com/books?id=PX6UFZ1NMBQC</dc:sourec>
 		<meta property="se:word-count">WORDCOUNT</meta>
 		<meta property="se:reading-ease.flesch">READINGEASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Vanity_Fair_(novel)</meta>
