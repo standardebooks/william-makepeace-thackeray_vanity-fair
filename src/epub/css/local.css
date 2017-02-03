@@ -11,16 +11,19 @@ span[epub|type~="subtitle"]{
 }
 
 [epub|type~="z3998:poem"] p,
+[epub|type~="z3998:song"] p,
 [epub|type~="z3998:verse"] p{
 	text-align: left;
 	text-indent: 0;
 }
 
-[epub|type~="z3998:poem"] p + p{
+[epub|type~="z3998:poem"] p + p,
+[epub|type~="z3998:song"] p + p{
 	margin-top: 1em;
 }
 
 [epub|type~="z3998:poem"] p span,
+[epub|type~="z3998:song"] p span,
 [epub|type~="z3998:verse"] p span{
 	display: block;
 	text-indent: -1em;
@@ -28,8 +31,34 @@ span[epub|type~="subtitle"]{
 }
 
 [epub|type~="z3998:poem"] br,
+[epub|type~="z3998:song"] br,
 [epub|type~="z3998:verse"] br{
 	display: none;
+}
+
+p span.i1{
+	text-indent: -1em;
+	padding-left: 2em;
+}
+
+[epub|type~="se:letter.dateline"]{
+	text-align: right;
+	font-variant: small-caps;
+}
+
+[epub|type~="z3998:valediction"]{
+	text-align: right;
+	margin-top: 1em;
+}
+
+p[epub|type~="z3998:salutation"] + p,
+[epub|type~="se:letter.dateline"] + p{
+	text-indent: 0;
+}
+
+[epub|type~="z3998:postscript"]{
+	margin-top: 1em;
+	text-indent: 0;
 }
 
 b,
