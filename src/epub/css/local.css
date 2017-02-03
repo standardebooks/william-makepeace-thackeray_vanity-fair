@@ -10,21 +10,24 @@ span[epub|type~="subtitle"]{
 	font-weight: normal;
 }
 
+[epub|type~="z3998:poem"] p,
 [epub|type~="z3998:verse"] p{
 	text-align: left;
 	text-indent: 0;
 }
 
-[epub|type~="z3998:verse"] p + p{
+[epub|type~="z3998:poem"] p + p{
 	margin-top: 1em;
 }
 
+[epub|type~="z3998:poem"] p span,
 [epub|type~="z3998:verse"] p span{
 	display: block;
 	text-indent: -1em;
 	padding-left: 1em;
 }
 
+[epub|type~="z3998:poem"] br,
 [epub|type~="z3998:verse"] br{
 	display: none;
 }
