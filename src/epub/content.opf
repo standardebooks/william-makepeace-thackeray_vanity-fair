@@ -59,10 +59,11 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/William_Makepeace_Thackeray</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n78095677</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVERARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVERARTISTSORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">WIKILINK</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">NACOAFLINK</meta>
+		<dc:contributor id="artist">James Tissot</dc:contributor>
+		<meta property="file-as" refines="#artist">Tissot, James</meta>
+		<meta property="se:name.person.full-name" refines="#artist">Jacques Joseph Tissot</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/James_Tissot</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n82073912</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Juli Rew</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Rew, Juli</meta>
@@ -79,6 +80,7 @@
 		<dc:contributor id="producer-2">Alina Pyzowski</dc:contributor>
 		<meta property="file-as" refines="#producer-2">Pyzowski, Alina</meta>
 		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
