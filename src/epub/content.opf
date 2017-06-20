@@ -67,7 +67,7 @@
 		<dc:contributor id="transcriber-1">Juli Rew</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Rew, Juli</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">Alex cabal</dc:contributor>
+		<dc:contributor id="producer-1">Alex Cabal</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Cabal, Alex</meta>
 		<meta property="se:url.homepage" refines="#producer-1">https://alexcabal.com</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
