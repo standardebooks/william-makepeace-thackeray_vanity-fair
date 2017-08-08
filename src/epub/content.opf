@@ -2,9 +2,9 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/william-makepeace-thackeray/vanity-fair</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
-		<meta property="se:revision-number">0</meta>
+		<dc:date>2017-08-08T05:21:50Z</dc:date>
+		<meta property="dcterms:modified">2017-08-08T05:21:50Z</meta>
+		<meta property="se:revision-number">1</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -40,10 +40,13 @@
 		<meta property="meta-auth" refines="#subject-6">https://www.gutenberg.org/ebooks/599</meta>
 		<meta property="meta-auth" refines="#subject-7">https://www.gutenberg.org/ebooks/599</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A domestic satire set in England before the backdrop of the Napoleonic Wars.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONGDESCRIPTION
+			&lt;p&gt;&lt;i&gt;Vanity Fair&lt;/i&gt; is perhaps Thackeray’s most famous novel. First serialized over the course of 19 volumes in &lt;i&gt;Punch Magazine&lt;/i&gt; and first printed as a single volume in 1849, the novel cemented Thackeray’s literary fame and kept him busy with frequent revisions and even lecture circuits.&lt;/p&gt;
+			&lt;p&gt;The story is framed as a puppet play, narrated by an unreliable narrator, that presents the story of Becky Sharp and Emmy Sedley and the people in their lives as they struggle through the Napoleonic Wars. The story itself, like many other Thackeray novels, is a satire of the lives of the Victorian English of a certain class. Thackeray packed the novel with allusions, many of which were difficult even for his contemporary readers; part of the heavy revision work later he did on &lt;i&gt;Vanity Fair&lt;/i&gt; later in his life was revising it to make the allusions more accessible to his evolving audience.&lt;/p&gt;
+			&lt;p&gt;As part of his satirical bent, Thackeray made a point to make each character flawed, so that there are no “heroes” in the book—hence the subtitle “A Novel Without a Hero.” Thackeray’s goal was not only to entertain, but to instruct; to that end, he wanted the reader to look within themselves after finishing the unhappy conclusion, in which there’s no hint as to how society might be able to improve on the evils shadowed in the events of novel.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Vanity Fair&lt;/i&gt; received glowing praise by its critical contemporaries, and remains a popular book well into modern times, having been adapted repeatedly for film, radio, and television.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
@@ -52,7 +55,7 @@
 		<dc:source>https://archive.org/details/VanityFairNovel1848</dc:source>
 		<dc:source>https://archive.org/details/vanityfair01thacuoft</dc:source>
 		<dc:source>https://archive.org/details/vanityfair02thacuoft</dc:source>
-		<meta property="se:word-count">308286</meta>
+		<meta property="se:word-count">308437</meta>
 		<meta property="se:reading-ease.flesch">66.57</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Vanity_Fair_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/william-makepeace-thackeray_vanity-fair</meta>
