@@ -52,9 +52,12 @@ p span.i1{
 	font-variant: small-caps;
 }
 
-[epub|type~="z3998:valediction"]{
-	text-align: right;
+footer{
 	margin-top: 1em;
+}
+
+p[epub|type~="z3998:valediction"]{
+	text-align: right;
 }
 
 p[epub|type~="z3998:salutation"] + p,
@@ -82,17 +85,13 @@ p.signature{
 	text-align: right;
 }
 
-header p{
+[epub|type~="z3998:poem"] header p{
 	text-indent: 0;
 	font-variant: small-caps;
 	text-align: center;
 }
 
-footer{
-	text-align: right;
-	margin-top: 1em;
-}
-
 [epub|type~="prologue"] footer{
 	font-style: italic;
+	text-align: right;
 }
