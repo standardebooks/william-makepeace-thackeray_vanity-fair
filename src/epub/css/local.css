@@ -1,10 +1,6 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-abbr.name{
-	white-space: nowrap;
-}
-
 section[epub|type~="halftitlepage"] span[epub|type~="subtitle"]{
 	display: block;
 	font-size: .75em;
@@ -70,12 +66,6 @@ p[epub|type~="z3998:salutation"] + p,
 	text-indent: 0;
 }
 
-b,
-strong{
-	font-weight: normal;
-	font-variant: small-caps;
-}
-
 [epub|type~="z3998:salutation"],
 .signature{
 	font-variant: small-caps;
@@ -86,7 +76,6 @@ p.signature{
 }
 
 [epub|type~="z3998:poem"] header p{
-	text-indent: 0;
 	font-variant: small-caps;
 	text-align: center;
 }
