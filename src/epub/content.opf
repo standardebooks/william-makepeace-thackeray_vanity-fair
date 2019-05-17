@@ -26,7 +26,7 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Vanity Fair</dc:title>
 		<meta property="file-as" refines="#title">Vanity Fair</meta>
 		<meta property="title-type" refines="#title">main</meta>
@@ -42,23 +42,28 @@
 		<dc:subject id="subject-5">Social classes -- Fiction</dc:subject>
 		<dc:subject id="subject-6">British -- Europe -- Fiction</dc:subject>
 		<dc:subject id="subject-7">Waterloo, Battle of, Waterloo, Belgium, 1815 -- Fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/599</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/599</meta>
-		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/599</meta>
-		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/599</meta>
-		<meta property="meta-auth" refines="#subject-5">https://www.gutenberg.org/ebooks/599</meta>
-		<meta property="meta-auth" refines="#subject-6">https://www.gutenberg.org/ebooks/599</meta>
-		<meta property="meta-auth" refines="#subject-7">https://www.gutenberg.org/ebooks/599</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh85117645</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">Unknown</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh2008107257</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">sh2008103512</meta>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
+		<meta property="term" refines="#subject-5">sh2008111427</meta>
+		<meta property="authority" refines="#subject-6">LCSH</meta>
+		<meta property="term" refines="#subject-6">sh2007102080</meta>
+		<meta property="authority" refines="#subject-7">LCSH</meta>
+		<meta property="term" refines="#subject-7">sh2008113408</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A domestic satire set in England before the backdrop of the Napoleonic Wars.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Vanity Fair&lt;/i&gt; is perhaps Thackeray’s most famous novel. First serialized over the course of 19 volumes in &lt;i&gt;Punch Magazine&lt;/i&gt; and first printed as a single volume in 1849, the novel cemented Thackeray’s literary fame and kept him busy with frequent revisions and even lecture circuits.&lt;/p&gt;
 			&lt;p&gt;The story is framed as a puppet play, narrated by an unreliable narrator, that presents the story of Becky Sharp and Emmy Sedley and the people in their lives as they struggle through the Napoleonic Wars. The story itself, like many other Thackeray novels, is a satire of the lives of the Victorian English of a certain class. Thackeray packed the novel with allusions, many of which were difficult even for his contemporary readers; part of the heavy revisions he later made were making the allusions more accessible to his evolving audience.&lt;/p&gt;
 			&lt;p&gt;As part of his satirical bent, Thackeray made a point to make each character flawed, so that there are no “heroes” in the book—hence the subtitle “A Novel Without a Hero.” Thackeray’s goal was not only to entertain, but to instruct; to that end, he wanted the reader to look within themselves after finishing the unhappy conclusion, in which there’s no hint as to how society might be able to improve on the evils shadowed in the events of novel.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Vanity Fair&lt;/i&gt; received glowing praise by its critical contemporaries, and remains a popular book well into modern times, having been adapted repeatedly for film, radio, and television.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/599</dc:source>
 		<dc:source>https://books.google.com/books?id=PX6UFZ1NMBQC</dc:source>
