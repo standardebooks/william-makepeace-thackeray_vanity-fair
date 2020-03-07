@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-5.xhtml">
+		<ignore>
+			<code>t-007</code>
+			<reason>"Tea &amp; Sugar" is part of the letter's prose style and does not need no-break spaces.</reason>
+		</ignore>
+		<ignore>
+			<code>t-008</code>
+			<reason>"Tea &amp; Sugar" is part of the letter's prose style and does not need no-break spaces.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
