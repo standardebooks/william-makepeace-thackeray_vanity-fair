@@ -56,11 +56,11 @@ p[epub|type~="z3998:salutation"] + p,
 }
 
 [epub|type~="z3998:salutation"],
-[epub:type~="z3998:signature"]{
+[epub|type~="z3998:signature"]{
 	font-variant: small-caps;
 }
 
-p[epub:type~="z3998:signature"]{
+p[epub|type~="z3998:signature"]{
 	text-align: right;
 }
 
