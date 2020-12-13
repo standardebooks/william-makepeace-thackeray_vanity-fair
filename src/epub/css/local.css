@@ -39,9 +39,6 @@ p span.i1{
 
 footer{
 	margin-top: 1em;
-}
-
-p[epub|type~="z3998:valediction"]{
 	text-align: right;
 }
 
@@ -52,16 +49,13 @@ p[epub|type~="z3998:salutation"] + p,
 
 [epub|type~="z3998:postscript"]{
 	margin-top: 1em;
+	text-align: left;
 	text-indent: 0;
 }
 
 [epub|type~="z3998:salutation"],
 [epub|type~="z3998:signature"]{
 	font-variant: small-caps;
-}
-
-p[epub|type~="z3998:signature"]{
-	text-align: right;
 }
 
 [epub|type~="z3998:poem"] header p{
@@ -71,5 +65,4 @@ p[epub|type~="z3998:signature"]{
 
 [epub|type~="prologue"] footer{
 	font-style: italic;
-	text-align: right;
 }
