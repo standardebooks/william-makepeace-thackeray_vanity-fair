@@ -36,6 +36,7 @@
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
 		<dc:title id="fulltitle">Vanity Fair: A Novel Without a Hero</dc:title>
 		<meta property="file-as" refines="#fulltitle">Vanity Fair</meta>
+		<meta property="title-type" refines="#fulltitle">extended</meta>
 		<dc:subject id="subject-1">Satire</dc:subject>
 		<dc:subject id="subject-2">England -- Fiction</dc:subject>
 		<dc:subject id="subject-3">Married women -- Fiction</dc:subject>
