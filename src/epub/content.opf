@@ -63,6 +63,8 @@
 		<meta id="collection-2" property="belongs-to-collection">The BBC’s 100 Greatest British Novels (2015)</meta>
 		<meta property="collection-type" refines="#collection-2">set</meta>
 		<meta property="group-position" refines="#collection-2">10</meta>
+		<meta id="collection-3" property="belongs-to-collection">Harvard Classics Shelf of Fiction</meta>
+		<meta property="collection-type" refines="#collection-3">set</meta>
 		<dc:description id="description">A domestic satire set in England before the backdrop of the Napoleonic Wars.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Vanity Fair&lt;/i&gt; is perhaps &lt;a href="https://standardebooks.org/ebooks/william-makepeace-thackeray"&gt;Thackeray’s&lt;/a&gt; most famous novel. First serialized over the course of 19 volumes in &lt;i&gt;Punch Magazine&lt;/i&gt; and first printed as a single volume in 1849, the novel cemented Thackeray’s literary fame and kept him busy with frequent revisions and even lecture circuits.&lt;/p&gt;
