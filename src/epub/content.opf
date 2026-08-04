@@ -73,7 +73,7 @@
 		<meta id="collection-5" property="belongs-to-collection">The Guardian’s 100 Greatest Novels of All Time (2003)</meta>
 		<meta property="collection-type" refines="#collection-5">set</meta>
 		<meta property="group-position" refines="#collection-5">19</meta>
-		<dc:abstract>A domestic satire set in England before the backdrop of the Napoleonic Wars.</dc:abstract>
+		<meta property="schema:abstract">A domestic satire set in England before the backdrop of the Napoleonic Wars.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;Vanity Fair&lt;/i&gt; is perhaps &lt;a href="https://standardebooks.org/ebooks/william-makepeace-thackeray"&gt;Thackeray’s&lt;/a&gt; most famous novel. First serialized over the course of 19 volumes in &lt;i&gt;Punch Magazine&lt;/i&gt; and first printed as a single volume in 1849, the novel cemented Thackeray’s literary fame and kept him busy with frequent revisions and even lecture circuits.&lt;/p&gt;
 			&lt;p&gt;The story is framed as a puppet play, narrated by an unreliable narrator, that presents the story of Becky Sharp and Emmy Sedley and the people in their lives as they struggle through the Napoleonic Wars. The story itself, like many other Thackeray novels, is a satire of the lives of the Victorian English of a certain class. Thackeray packed the novel with allusions, many of which were difficult even for his contemporary readers; part of the heavy revisions he later made were making the allusions more accessible to his evolving audience.&lt;/p&gt;
