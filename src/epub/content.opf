@@ -38,12 +38,12 @@
 		<meta property="file-as" refines="#fulltitle">Vanity Fair</meta>
 		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<dc:subject id="subject-1">Satire</dc:subject>
-		<dc:subject id="subject-2">England -- Fiction</dc:subject>
-		<dc:subject id="subject-3">Married women -- Fiction</dc:subject>
-		<dc:subject id="subject-4">Female friendship -- Fiction</dc:subject>
-		<dc:subject id="subject-5">Social classes -- Fiction</dc:subject>
-		<dc:subject id="subject-6">British -- Europe -- Fiction</dc:subject>
-		<dc:subject id="subject-7">Waterloo, Battle of, Waterloo, Belgium, 1815 -- Fiction</dc:subject>
+		<dc:subject id="subject-2">England--Fiction</dc:subject>
+		<dc:subject id="subject-3">Married women--Fiction</dc:subject>
+		<dc:subject id="subject-4">Female friendship--Fiction</dc:subject>
+		<dc:subject id="subject-5">Social classes--Fiction</dc:subject>
+		<dc:subject id="subject-6">British--Europe--Fiction</dc:subject>
+		<dc:subject id="subject-7">Waterloo, Battle of, Waterloo, Belgium, 1815--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85117645</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
